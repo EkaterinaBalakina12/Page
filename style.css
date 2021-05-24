@@ -1,0 +1,172 @@
+.div1 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 92%;
+    
+    background: #FFFFFF;
+}
+
+.div2 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 8%;
+    bottom: 85.78%;
+    
+    background: #BA1419;
+}
+
+.div3 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 14.22%;
+    bottom: 60%;
+    
+    background: rgba(0, 0, 0, 0.3);    
+}
+
+.div4 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 40%;
+    bottom: -0.33%;
+    
+    background: #FFFFFF;    
+}
+
+.div5 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 10.4%;
+    bottom: 80%;
+
+    background: #F5F7F9;
+}
+
+.button1{
+    position: absolute;
+    left: 56.94%;
+    right: 33.61%;
+    top: 16.89%;
+
+    background: #BA1419;
+    border-radius: 4px;
+}
+
+.button2{
+    position: absolute;
+    left: 67.5%;
+    right: 23.06%;
+    top: 16.89%;
+    
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.button3{
+    position: absolute;
+    right: 83.54%;
+    top: 16.89%;
+}
+
+.but1{
+    position: absolute;
+    left: 64.1%;
+    right: 29.17%;
+    top: 20%;
+    
+    background: #BA1419;
+    border-radius: 4px;
+}
+
+.but2{
+    position: absolute;
+    left: 71.94%;
+    right: 23.06%;
+    top: 23%;
+
+    border: 1px solid #747474;
+    box-sizing: border-box;
+    border-radius: 4px;    
+}
+
+form {
+    position: absolute;
+
+right: 37.01%;
+top: 20%;
+background: #FFFFFF;
+border: 1px solid #CECECE;
+box-sizing: border-box;
+  }
+
+form input{
+    border: none;
+}
+form button{
+    border: none;
+    background: #FFFFFF;
+}
+
+.menu-1{
+    list-style: none;
+    margin: 10px auto;
+}
+
+.menu-1 li {
+    display: inline-block;
+    margin: 0 10px auto;
+    color: grey;
+    text-align: center;
+}
+.menu-1 li:hover{
+    border-bottom: 2px solid white;
+    color: white;
+}
+
+.menu{
+    list-style: none;
+    margin: 10px auto;
+}
+
+.menu li {
+    color: #747474;
+    display: inline-block;
+    margin: 0 10px auto;
+}
+
+.menu li:hover{
+    border-bottom: 2px solid #BA1419;
+    color: #BA1419;
+}
+
+table {
+    margin: 5% auto;
+    border-collapse: collapse;
+    width: 60%; 
+}
+td{
+    border-bottom: 1px solid grey;
+    padding: 0 20px 0 0;
+}
+
+.num{
+    text-align: right;
+}
+
+.div3 img {
+    height: 130px;
+    margin: 12px 22% auto;
+    border-radius: 8px;
+}
+
+.div1 img {
+    height: 38px;
+    margin: 5px 10% auto;
+}
